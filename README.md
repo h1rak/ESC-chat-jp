@@ -1,6 +1,7 @@
 # ESC-chat-jp
 
-MultiESC(https://github.com/lwgkzl/MultiESC)で学習したBARTモデルによる戦略推定と、その戦略に基づいた日本語感情支援対話システム。
+MultiESC(https://github.com/lwgkzl/MultiESC)
+で学習したBARTモデルによる戦略推定と、その戦略に基づいた日本語感情支援対話システム。
 概要
 
 戦略推定: BARTモデルで対話戦略を推定
